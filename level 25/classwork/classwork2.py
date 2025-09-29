@@ -4,6 +4,6 @@ def Verification(age, experience):
     else:
         print("Not Hired")
 
-Verification(20, 2)   # Hired
-Verification(17, 3)   # Not Hired
-Verification(25, 0)   # Not Hired
+Verification(20, 2)
+Verification(17, 3)
+Verification(25, 0)

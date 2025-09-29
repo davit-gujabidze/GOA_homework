@@ -1,0 +1,12 @@
+body {
+    background-color: maroon;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: "Comic Sans MS", Helvetica, sans-serif;
+    font-size: 100px;
+    height: 100vh;
+    margin: 0;
+}
